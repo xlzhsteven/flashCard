@@ -401,6 +401,7 @@
 				7A54E9EF1945220500B61F9D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7A54E9F01945220500B61F9D /* Build configuration list for PBXNativeTarget "FlashCardTests" */ = {
 			isa = XCConfigurationList;
@@ -409,6 +410,7 @@
 				7A54E9F21945220500B61F9D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
